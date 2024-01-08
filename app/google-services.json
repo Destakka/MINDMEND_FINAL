@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313013151709",
+    "project_id": "mindmendfinal-dd2be",
+    "storage_bucket": "mindmendfinal-dd2be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313013151709:android:bef4d774deeef753953834",
+        "android_client_info": {
+          "package_name": "com.example.mindmend_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8YB58BXAYK2NFhn-QUnRFMV0wtm42GrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
